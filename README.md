@@ -25,6 +25,7 @@ mp_warmup_end
 mp_freezetime 0  
 mp_roundtime 60  
 mp_roundtime_defuse 60  
+mp_roundtime_hostage 60  
 mp_limitteams 0  
 mp_autoteambalance 0  
 mp_maxmoney 60000  
