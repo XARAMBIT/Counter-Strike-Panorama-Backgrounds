@@ -1,5 +1,6 @@
 # Counter-Strike-Panorama-Backgrounds
 Replacement Menu Backgrounds for CSGO Panorama GUI
+# *** USE ARE YOUR OWN RISK ***
 
 ![csgo-bg](https://user-images.githubusercontent.com/52842013/63206380-1492f400-c081-11e9-8b2f-448ca404183f.PNG)
 
