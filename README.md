@@ -14,7 +14,7 @@ Sirocco is the video currently used at the main menu.
 This is likely to change in the future with game updates.  
 You will have to backup & replace the active video  
 
-# Recording Backgrounds of game maps
+# Recording Backgrounds of game maps for yourself or to add to this collection
 - Open any map offline
 - run film.cfg or the type the following commands  
 
