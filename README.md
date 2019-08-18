@@ -47,3 +47,10 @@ mp_restartgame 1
 - OPTIONAL: Make post edit changes with 3rd party software to add effects & tweak lighting
 - Convert to .webm (https://github.com/WebMBro/WebMConverter)
 - Keep under 8MB
+
+
+# Backgrounds
+
+Storm 2
+![storm2](https://user-images.githubusercontent.com/52842013/63219681-12926900-c145-11e9-910d-1e71333bbb87.PNG)
+
