@@ -78,6 +78,8 @@ Snow Forest
 XMAS Crash
 ![xmas_crash](https://user-images.githubusercontent.com/52842013/63220860-dfa89f00-c15d-11e9-89f8-84b4dd16ebac.PNG)
 
+Chinatown
+![chinatown](https://user-images.githubusercontent.com/52842013/63229508-f9ce9580-c1ce-11e9-8612-bc7511aa70dc.PNG)
 
 
 # Other Panorama Sources
