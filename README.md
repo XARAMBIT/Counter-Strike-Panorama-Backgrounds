@@ -69,6 +69,9 @@ Inferno Dusk
 Pink Crystal
 ![pink-crystal](https://user-images.githubusercontent.com/52842013/63220090-47ef8480-c14e-11e9-897c-c74c713c18af.PNG)
 
+Mirage Snow
+![mirage-snow](https://user-images.githubusercontent.com/52842013/63220461-1da1c500-c156-11e9-9f76-1cf16a09f4ac.PNG)
+
 
 # Other Panorama Sources
 https://www.mruy.de/csgo-panorama-backgrounds/
