@@ -62,3 +62,7 @@ Abstraction
 
 Inferno Dusk
 ![inferno-dusk](https://user-images.githubusercontent.com/52842013/63219738-79fce880-c146-11e9-9073-e2fd109ba861.PNG)
+
+
+# Other Panorama Sources
+https://www.mruy.de/csgo-panorama-backgrounds/
