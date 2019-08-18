@@ -12,8 +12,9 @@ Replacement Menu Backgrounds for CSGO Panorama GUI
 - Overwrite sirocco.webm with any video
 
 Sirocco is the video currently used at the main menu.  
+That means you need to overwrite sirocco.webm  
 This is likely to change in the future with game updates.  
-You will have to backup & replace the active video  
+You will have to backup & replace whatever the active video is  
 
 # Recording Backgrounds of game maps for yourself or to add to this collection
 - Open any map offline
