@@ -8,8 +8,8 @@ Exotic Replacement Menu Backgrounds for CSGO Panorama GUI
 These backgrounds are designed to fit the Counter-Strike aesthetic.  
 The backgrounds are mostly workshop maps as well as other games and engines  
 
-# Install:
-- Go to: Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\panorama\videos
+# Install:  
+>**Go to: Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\panorama\videos**
 - Create backup of 'sirocco.webm'  
 (Copy and rename to sirocco.bak in same directory)
 - Overwrite sirocco.webm with any video
