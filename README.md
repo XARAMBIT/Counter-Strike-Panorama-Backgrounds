@@ -57,3 +57,6 @@ Storm 2
 Datacenter
 ![datacenter](https://user-images.githubusercontent.com/52842013/63219700-93516500-c145-11e9-837c-058c41ab2650.PNG)
 
+Abstraction
+![abstraction](https://user-images.githubusercontent.com/52842013/63219722-1f638c80-c146-11e9-8380-6dd81dbc7cb5.PNG)
+
