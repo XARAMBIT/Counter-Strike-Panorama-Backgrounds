@@ -82,6 +82,9 @@ XMAS Crash
 Chinatown
 ![chinatown](https://user-images.githubusercontent.com/52842013/63229508-f9ce9580-c1ce-11e9-8612-bc7511aa70dc.PNG)
 
+Inferno Dusk 2
+![inferno-dusk2](https://user-images.githubusercontent.com/52842013/63230666-df4fe880-c1dd-11e9-862b-3791ef344257.PNG)
+
 
 # Other Panorama Sources
 https://www.mruy.de/csgo-panorama-backgrounds/
