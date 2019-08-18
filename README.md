@@ -1,9 +1,12 @@
 # Counter-Strike-Panorama-Backgrounds
-Replacement Menu Backgrounds for CSGO Panorama GUI  
+Exotic Replacement Menu Backgrounds for CSGO Panorama GUI  
   VAC Ban unlikely but:
 # *** USE AT YOUR OWN RISK ***
 
 ![csgo-bg](https://user-images.githubusercontent.com/52842013/63206380-1492f400-c081-11e9-8b2f-448ca404183f.PNG)
+
+These backgrounds are designed to fit the Counter-Strike aesthetic.  
+The backgrounds are mostly workshop maps as well as other games and engines  
 
 # Install:
 - Go to: Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\panorama\videos
@@ -62,6 +65,9 @@ Abstraction
 
 Inferno Dusk
 ![inferno-dusk](https://user-images.githubusercontent.com/52842013/63219738-79fce880-c146-11e9-9073-e2fd109ba861.PNG)
+
+Pink Crystal
+![pink-crystal](https://user-images.githubusercontent.com/52842013/63220090-47ef8480-c14e-11e9-897c-c74c713c18af.PNG)
 
 
 # Other Panorama Sources
