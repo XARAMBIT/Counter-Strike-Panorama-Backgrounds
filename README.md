@@ -72,6 +72,9 @@ Pink Crystal
 Mirage Snow
 ![mirage-snow](https://user-images.githubusercontent.com/52842013/63220461-1da1c500-c156-11e9-9f76-1cf16a09f4ac.PNG)
 
+Snow Forest
+![snow-forest](https://user-images.githubusercontent.com/52842013/63220475-6d808c00-c156-11e9-947c-44dcf00a6bcf.PNG)
+
 
 # Other Panorama Sources
 https://www.mruy.de/csgo-panorama-backgrounds/
