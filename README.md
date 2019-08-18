@@ -75,6 +75,10 @@ Mirage Snow
 Snow Forest
 ![snow-forest](https://user-images.githubusercontent.com/52842013/63220475-6d808c00-c156-11e9-947c-44dcf00a6bcf.PNG)
 
+XMAS Crash
+![xmas_crash](https://user-images.githubusercontent.com/52842013/63220860-dfa89f00-c15d-11e9-89f8-84b4dd16ebac.PNG)
+
+
 
 # Other Panorama Sources
 https://www.mruy.de/csgo-panorama-backgrounds/
