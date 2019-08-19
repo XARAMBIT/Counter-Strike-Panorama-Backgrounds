@@ -88,7 +88,7 @@ Inferno Dusk 2
 # Tools  
 Cinematic Tools  
 https://cinetools.xyz/games/  
-Virtual Dub 2  
+VirtualDub 2  
 https://sourceforge.net/projects/vdfiltermod/  
 WebM Converter  
 https://github.com/WebMBro/WebMConverter  
