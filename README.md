@@ -13,10 +13,10 @@ The backgrounds are mostly workshop maps as well as other games and engines
 Go To:
 >**Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\panorama\videos**
 - Create backup of 'sirocco.webm'  
-(Copy and rename to sirocco.bak in same directory)
-- Overwrite sirocco.webm with any video
+(Copy and rename to sirocco.bak in same directory)  
+- Overwrite sirocco.webm with any video  
 If you lost original sirocco.webm, delete the one you have and verify integrity of game files.  
-You can also get the original sirocco.webm from this repository
+You can also get the original sirocco.webm from this repository  
 
 Sirocco is the video currently used at the main menu.  
 That means you need to overwrite sirocco.webm  
