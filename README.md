@@ -85,8 +85,13 @@ Chinatown
 Inferno Dusk 2
 ![inferno-dusk2](https://user-images.githubusercontent.com/52842013/63230666-df4fe880-c1dd-11e9-862b-3791ef344257.PNG)
 
-# Cinematic Tools
-https://cinetools.xyz/
+# Tools  
+Cinematic Tools  
+https://cinetools.xyz/games/  
+Virtual Dub 2  
+https://sourceforge.net/projects/vdfiltermod/  
+WebM Converter  
+https://github.com/WebMBro/WebMConverter  
 
-# Other Panorama Sources
-https://www.mruy.de/csgo-panorama-backgrounds/
+# Other Panorama Sources  
+https://www.mruy.de/csgo-panorama-backgrounds/  
