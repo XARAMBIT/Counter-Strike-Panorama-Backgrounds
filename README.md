@@ -119,6 +119,9 @@ Abstraction 2
 Dynasty 1
 ![dynasty1](https://user-images.githubusercontent.com/52842013/63401141-559e4780-c3a4-11e9-82fc-891a02fb31d5.PNG)
 
+Dynasty 3
+![dynasty3](https://user-images.githubusercontent.com/52842013/63401745-71a2e880-c3a6-11e9-8d16-80df1c6f5a8c.PNG)
+
 
 
 # Tools  
