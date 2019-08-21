@@ -124,6 +124,9 @@ Dynasty 3
 Dynasty 4
 ![dynasty4](https://user-images.githubusercontent.com/52842013/63401911-0efe1c80-c3a7-11e9-8258-c04ec9beec1e.PNG)
 
+Shanghai
+![shanghai](https://user-images.githubusercontent.com/52842013/63403985-7c15b000-c3af-11e9-8be0-9e6067e1d000.PNG)
+
 
 
 # Tools  
