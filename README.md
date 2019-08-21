@@ -105,6 +105,9 @@ Abstraction
 Inferno Dusk
 ![inferno-dusk](https://user-images.githubusercontent.com/52842013/63219738-79fce880-c146-11e9-9073-e2fd109ba861.PNG)
 
+Dynasty 5
+![dynasty5](https://user-images.githubusercontent.com/52842013/63471859-6bf8e180-c43e-11e9-8925-eb8a9b7198d3.PNG)
+
 Pink Crystal
 ![pink-crystal](https://user-images.githubusercontent.com/52842013/63220090-47ef8480-c14e-11e9-897c-c74c713c18af.PNG)
 
