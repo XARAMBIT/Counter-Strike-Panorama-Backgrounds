@@ -14,7 +14,7 @@ Go To:
 >**Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\panorama\videos**
 - Create backup of 'sirocco.webm'  
 (Copy and rename to sirocco.bak in same directory)  
-- Overwrite sirocco.webm with any video  
+- Overwrite sirocco.webm with the video you want as your backgroud  
 If you lost original sirocco.webm, delete the one you have and verify integrity of game files.  
 You can also get the original sirocco.webm from this repository  
 
