@@ -108,6 +108,9 @@ Inferno Dusk
 Dynasty 5
 ![dynasty5](https://user-images.githubusercontent.com/52842013/63471859-6bf8e180-c43e-11e9-8925-eb8a9b7198d3.PNG)
 
+WoW 3
+![wow3](https://user-images.githubusercontent.com/52842013/63471987-bbd7a880-c43e-11e9-9111-cdbc2c423014.PNG)
+
 Pink Crystal
 ![pink-crystal](https://user-images.githubusercontent.com/52842013/63220090-47ef8480-c14e-11e9-897c-c74c713c18af.PNG)
 
@@ -119,6 +122,12 @@ Star Wars 2
 
 Gradient 1
 ![gradient1](https://user-images.githubusercontent.com/52842013/63393886-1dd6d600-c38b-11e9-898e-e00a10ad3ad2.PNG)
+
+surf_utopia_night
+![surf_utopia_night](https://user-images.githubusercontent.com/52842013/63472077-09ecac00-c43f-11e9-88ff-6d2f6328a1e3.PNG)
+
+surf_andromeda 2
+![surf_andromeda2](https://user-images.githubusercontent.com/52842013/63472183-53d59200-c43f-11e9-8793-784614e9139a.PNG)
 
 surf_mesa_aether (Surfing in background)
 ![surf_mesa_aether](https://user-images.githubusercontent.com/52842013/63409159-9b680980-c3be-11e9-89b3-093ce5c15dc6.PNG)
