@@ -113,6 +113,9 @@ Berlin Wall
 Mirage Snow 2
 ![mirage-snow2](https://user-images.githubusercontent.com/52842013/63396351-c50c3b00-c394-11e9-9aa5-20057dfc7ff2.PNG)
 
+Abstraction 2
+![abstraction2](https://user-images.githubusercontent.com/52842013/63400961-aeb9ab80-c3a3-11e9-9d79-dd6ee00685d2.PNG)
+
 
 
 # Tools  
