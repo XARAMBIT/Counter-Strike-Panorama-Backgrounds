@@ -113,7 +113,8 @@ Cinematic Tools: https://cinetools.xyz/games/
 ReShade: https://github.com/crosire/reshade-shaders  
 VirtualDub 2: https://sourceforge.net/projects/vdfiltermod/  
 WebM Converter: https://github.com/WebMBro/WebMConverter  
-Youtube-dl https://github.com/ytdl-org/youtube-dl  
+Youtube-dl: https://github.com/ytdl-org/youtube-dl  
+CSGO Workshop Maps: https://steamcommunity.com/workshop/browse/?appid=730&actualsort=trend&browsesort=trend&p=1&days=-1  
 
 # Other Panorama Sources  
 https://www.mruy.de/csgo-panorama-backgrounds/  
