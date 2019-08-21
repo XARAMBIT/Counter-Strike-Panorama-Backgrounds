@@ -3,6 +3,7 @@ Please Enjoy these exotic animated menu background replacements for CSGO Panoram
 VAC Ban very unlikely but:  
 # *** USE AT YOUR OWN RISK ***
 
+![demo](https://user-images.githubusercontent.com/52842013/63408373-e254ff80-c3bc-11e9-8984-16edbc7fa1fb.gif)
 ![csgo-bg](https://user-images.githubusercontent.com/52842013/63206380-1492f400-c081-11e9-8b2f-448ca404183f.PNG)
 
 These backgrounds are designed to fit the Counter-Strike aesthetic.  
