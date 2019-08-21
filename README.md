@@ -1,6 +1,5 @@
 # Counter-Strike-Panorama-Backgrounds
-Please Enjoy these exotic replacement menu backgrounds for CSGO Panorama GUI  
-**Yes, these are animated**  
+Please Enjoy these exotic animated replacement menu backgrounds for CSGO Panorama GUI   
 VAC Ban very unlikely but:  
 # *** USE AT YOUR OWN RISK ***
 
