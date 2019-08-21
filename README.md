@@ -1,7 +1,7 @@
 # Counter-Strike-Panorama-Backgrounds
-Exotic Replacement Menu Backgrounds for CSGO Panorama GUI  
+Please Enjoy these exotic replacement menu backgrounds for CSGO Panorama GUI  
 **Yes, these are animated**  
-VAC Ban unlikely but:  
+VAC Ban very unlikely but:  
 # *** USE AT YOUR OWN RISK ***
 
 ![csgo-bg](https://user-images.githubusercontent.com/52842013/63206380-1492f400-c081-11e9-8b2f-448ca404183f.PNG)
@@ -23,7 +23,8 @@ That means you need to overwrite sirocco.webm
 This is likely to change in the future with game updates.  
 You will have to backup & replace whatever the active video is  
 
-# Recording Backgrounds of game maps for yourself or to add to this collection
+# Recording Backgrounds of game maps for yourself
+Please make some backgrounds and send them to us, we will link your repository here
 - Open any map offline
 - run film.cfg or the type the following commands  
 
