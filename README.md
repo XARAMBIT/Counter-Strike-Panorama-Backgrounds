@@ -91,8 +91,12 @@ Inferno Dusk 2
 Star Wars 1
 ![star_wars1](https://user-images.githubusercontent.com/52842013/63240845-738e6f80-c21f-11e9-87ce-053a599f3a6b.PNG)
 
+WoW 2
+![wow2](https://user-images.githubusercontent.com/52842013/63392610-7014f880-c385-11e9-81c9-631c16d14fb1.PNG)
+
 # Tools  
 Cinematic Tools: https://cinetools.xyz/games/  
+ReShade: https://github.com/crosire/reshade-shaders  
 VirtualDub 2: https://sourceforge.net/projects/vdfiltermod/  
 WebM Converter: https://github.com/WebMBro/WebMConverter  
 
