@@ -23,7 +23,7 @@ That means you need to overwrite sirocco.webm
 This is likely to change in the future with game updates.  
 You will have to backup & replace whatever the active video is  
 
-# Recording Backgrounds of game maps for yourself
+# Creating your own Backgrounds:
 Please make some backgrounds and send them to us, we will link your repository here
 - Open any map offline
 - run film.cfg or the type the following commands  
