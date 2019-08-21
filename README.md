@@ -4,7 +4,6 @@ VAC Ban very unlikely but:
 # *** USE AT YOUR OWN RISK ***
 
 ![demo](https://user-images.githubusercontent.com/52842013/63408373-e254ff80-c3bc-11e9-8984-16edbc7fa1fb.gif)
-![csgo-bg](https://user-images.githubusercontent.com/52842013/63206380-1492f400-c081-11e9-8b2f-448ca404183f.PNG)
 
 These backgrounds are designed to fit the Counter-Strike aesthetic.  
 The backgrounds are mostly workshop maps as well as other games and engines  
@@ -61,6 +60,9 @@ mp_restartgame 1
 
 Storm 2
 ![storm2](https://user-images.githubusercontent.com/52842013/63219681-12926900-c145-11e9-910d-1e71333bbb87.PNG)
+
+Overpass Snow
+![csgo-bg](https://user-images.githubusercontent.com/52842013/63206380-1492f400-c081-11e9-8b2f-448ca404183f.PNG)
 
 Datacenter
 ![datacenter](https://user-images.githubusercontent.com/52842013/63219700-93516500-c145-11e9-837c-058c41ab2650.PNG)
